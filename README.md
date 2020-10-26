@@ -3,6 +3,8 @@
 **DEMO**  
 [https://evofan.github.io/cocoscreator_spine_test/build/web-mobile/](https://evofan.github.io/cocoscreator_spine_test/build/web-mobile/)  
 
+<img src="https://evofan.github.io/cocoscreator_spine_test/screenshot/pic_screenshot.jpg" width="50%">  
+
 Cocos Creator v2.3.1  
 Spine 3.8.84  
 
@@ -19,4 +21,4 @@ reference
 
 **HI-TIME ※モンスター素材（骸骨）を使用**  
 [http://raineru03.web.fc2.com/page002.html](http://raineru03.web.fc2.com/page002.html)  
-Use asset.
+Use asset(The skeleton is disassembled into parts.).
