@@ -5,6 +5,7 @@
 
 <img src="https://evofan.github.io/cocoscreator_spine_test/screenshot/pic_screenshot.jpg" width="50%">  
 
+**Version**  
 Cocos Creator v2.3.1  
 Spine 3.8.84  
 
