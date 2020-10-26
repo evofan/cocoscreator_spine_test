@@ -1,0 +1,139 @@
+
+01_hone.png
+size: 498,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_template
+  rotate: false
+  xy: 2, 36
+  size: 292, 508
+  orig: 340, 520
+  offset: 3, 4
+  index: -1
+01_head
+  rotate: false
+  xy: 404, 62
+  size: 43, 67
+  orig: 51, 75
+  offset: 4, 5
+  index: -1
+02_arm_right_up
+  rotate: true
+  xy: 198, 7
+  size: 27, 75
+  orig: 50, 85
+  offset: 11, 6
+  index: -1
+03_arm_right_down
+  rotate: false
+  xy: 404, 206
+  size: 46, 84
+  orig: 56, 98
+  offset: 4, 5
+  index: -1
+04_arm_right_hand
+  rotate: false
+  xy: 449, 96
+  size: 28, 51
+  orig: 43, 63
+  offset: 7, 7
+  index: -1
+05_arm_right_sord
+  rotate: false
+  xy: 296, 312
+  size: 109, 232
+  orig: 122, 256
+  offset: 3, 13
+  index: -1
+06_arm_left_up
+  rotate: true
+  xy: 112, 7
+  size: 27, 84
+  orig: 45, 94
+  offset: 5, 6
+  index: -1
+07_arm_left_down
+  rotate: false
+  xy: 452, 229
+  size: 36, 69
+  orig: 58, 82
+  offset: 9, 8
+  index: -1
+08_arm_left_hand
+  rotate: false
+  xy: 447, 149
+  size: 35, 55
+  orig: 53, 69
+  offset: 7, 11
+  index: -1
+09_breast
+  rotate: false
+  xy: 296, 142
+  size: 106, 168
+  orig: 125, 178
+  offset: 7, 6
+  index: -1
+10_west_top
+  rotate: true
+  xy: 296, 41
+  size: 99, 106
+  orig: 114, 124
+  offset: 6, 8
+  index: -1
+11_leg_right_up
+  rotate: true
+  xy: 296, 2
+  size: 37, 134
+  orig: 55, 149
+  offset: 6, 7
+  index: -1
+12_leg_right_down
+  rotate: false
+  xy: 448, 332
+  size: 43, 88
+  orig: 63, 100
+  offset: 10, 7
+  index: -1
+13_leg_right_foot
+  rotate: false
+  xy: 404, 131
+  size: 41, 73
+  orig: 60, 86
+  offset: 6, 4
+  index: -1
+14_leg_left_up
+  rotate: false
+  xy: 407, 292
+  size: 39, 128
+  orig: 54, 136
+  offset: 7, 4
+  index: -1
+15_leg_left_down
+  rotate: true
+  xy: 2, 3
+  size: 31, 108
+  orig: 56, 121
+  offset: 11, 7
+  index: -1
+16_leg_left_foot
+  rotate: false
+  xy: 432, 6
+  size: 64, 54
+  orig: 84, 65
+  offset: 7, 4
+  index: -1
+17_west_middle
+  rotate: false
+  xy: 407, 422
+  size: 89, 122
+  orig: 91, 136
+  offset: 0, 4
+  index: -1
+18_west_bottom
+  rotate: true
+  xy: 448, 300
+  size: 30, 46
+  orig: 49, 55
+  offset: 7, 4
+  index: -1
